@@ -1,6 +1,7 @@
 Asynchronous Twitter client API for node.js
 ===========================================
 
+This is just a small improvement to AvianFlu's [ntwitter](http://github.com/AvianFlu/ntwitter). As the search function didn't worked with Twitters API 1.1, I changed the keys and search URLs which finally worked for me. 
 [ntwitter](http://github.com/AvianFlu/ntwitter) is an improved version of jdub's [node-twitter](http://github.com/jdub/node-twitter), which in turn was inspired by, and uses some code from, technoweenie's [twitter-node](http://github.com/technoweenie/twitter-node).
 
 
