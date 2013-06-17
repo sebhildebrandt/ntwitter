@@ -7,6 +7,7 @@ This is just a small improvement to AvianFlu's [ntwitter](http://github.com/Avia
 
 ## Installation
 
+This is _NOT_ the official ntwitter module so THIS installation will not work (you then should get the original ntwitter module without this fix I made).
 You can install ntwitter and its dependencies with npm: `npm install ntwitter`.
 
 
